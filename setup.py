@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='dictlookup',
-      version='0.3',
+      version='0.4',
       description='Search a word in dictionary',
       url='http://github.com/ibrahim45/dict-lookup',
       author='Ibrahim sha',
