@@ -1,6 +1,6 @@
 # dict-lookup
 
-This help to search meaning of word in terminal.
+This utility tool help to search meaning of word in terminal.
 
 
 # prerequisties
