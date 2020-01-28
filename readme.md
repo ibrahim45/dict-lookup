@@ -45,7 +45,6 @@ Response will be in the format of
                             u'type': u'noun'}],
     u'pronunciation': None,
     u'word': u'challenge'
-
 }
 ```
 
