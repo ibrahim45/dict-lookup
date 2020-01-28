@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+import dictlookup
+import sys
+
+if not len(sys.argv) > 1:
+    print("please enter the word to be searched eg: `\x1b[31mdict challenge\x1b[0m'")
+    exit()
+    
+dictlookup.search_word(sys.argv[1])
