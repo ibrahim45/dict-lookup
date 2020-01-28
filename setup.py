@@ -7,5 +7,5 @@ setup(name='dictlookup',
       author='Ibrahim sha',
       author_email='kibrahimsha4@gmail.com',
       license='MIT',
-      packages=[''],
+      packages=['dictlookup'],
       zip_safe=False)
