@@ -17,7 +17,7 @@ https://owlbot.info
 pip install dict-lookup
 ```
 
-Get api token from registered email on clicking `get a free token` in owlbot site.
+Get api token from registered email on clicking `get a free api token` in owlbot site.
 
 ```
 export OWL_API_TOKEN=<value> 
